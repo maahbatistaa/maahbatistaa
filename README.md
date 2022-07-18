@@ -19,4 +19,6 @@
   <a href="https://www.linkedin.com/in/mariana-batista-b471441b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maahbatistaa/count.svg" /></p>
+  
   ![Snake animation](https://github.com/maahbatistaa/maahbatistaa/blob/output/github-contribution-grid-snake.svg)
