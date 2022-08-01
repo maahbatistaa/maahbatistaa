@@ -1,5 +1,8 @@
 ### Olá! Eu sou a Mariana Batista
 
+🌱 Atualmente estou estudando HTML, CSS e JS   
+👩🏻‍💻 Procuro me tornar uma desenvolvedora Front-end
+
 <div align="center">
   <a href="https://github.com/maahbatistaa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maahbatistaa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
