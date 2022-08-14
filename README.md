@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Mariana Batista
 
-🌱 Atualmente estou estudando HTML, CSS e JS   
+🌱 Atualmente estou estudando HTML, CSS, JS e C#   
 👩🏻‍💻 Procuro me tornar uma desenvolvedora Front-end
 
 <div align="center">
