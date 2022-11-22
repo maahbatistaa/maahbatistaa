@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 Ciência da Computação <br>👩🏻‍💻 I am looking to become a Front-end developer
+🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 Computer science <br>👩🏻‍💻 I am looking to become a Front-end developer
 
 
 ## 🌐 Socials:
@@ -13,6 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaahBatistaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaahBatistaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
