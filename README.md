@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maahbatistaa&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<a href="https://app.daily.dev/maahbatistaa"><img src="https://api.daily.dev/devcards/799c8b34df5141cf83438f6e7b88e27b.png?r=8ef" width="250" alt="Mariana Batista's Dev Card"/></a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MaahBatistaa&icon=0&color=3)](https://visitcount.itsvg.in)
