@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 Computer science | USC<br>📚 Information systems | UTFPR<br>👩🏻‍💻 I am looking to become a Front-end developer
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mari.astrocode/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maahbatistaa/) 
 
@@ -11,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maahbatistaa&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://app.daily.dev/maahbatistaa"><img src="https://api.daily.dev/devcards/799c8b34df5141cf83438f6e7b88e27b.png?r=8ef" width="250" alt="Mariana Batista's Dev Card"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
