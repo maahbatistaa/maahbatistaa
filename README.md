@@ -1,5 +1,10 @@
+
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 Computer science | USC<br>📚 Information systems | UTFPR<br>👩🏻‍💻 I am looking to become a Front-end developer
+🌱 I’m currently learning HTML, CSS, JS e C#<br>
+📚 Computer science | USC<br>
+📚 Information systems | UTFPR<br>
+👩🏻‍💻 I am looking to become a Front-end developer
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maahbatistaa.codes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maahbatistaa/) 
@@ -9,8 +14,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maahbatistaa&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaahBatistaa&icon=0&color=3)](https://visitcount.itsvg.in)
