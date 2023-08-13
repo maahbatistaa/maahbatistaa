@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 Computer science | USC<br>👩🏻‍💻 I am looking to become a Front-end developer
+🌱 I’m currently learning HTML, CSS, JS e C#<br>📚 
+Analysis and systems development | USC<br>👩🏻‍💻 I am looking to become a Front-end developer
 
 
 ## 🌐 Socials:
