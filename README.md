@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://maahbatistaa-portfolio.vercel.app' target='blank'>
-  <img height="200em" src="./assets/logoMariana.png"/>
+  <img height="280em" src="./assets/logoMariana.png"/>
 </a>
 </div>
 
