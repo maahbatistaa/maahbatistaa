@@ -1,5 +1,5 @@
 <div align="center">
-  <a href='https://maahbatistaa-portfolio.vercel.app' target='blank'>
+  <a href='https://maahbatistaa-portfolio.vercel.app' target="_blank">
   <img height="280em" src="./assets/logoMariana.png"/>
 </a>
 </div>
