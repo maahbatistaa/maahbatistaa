@@ -1,14 +1,23 @@
-# 💫 About Me:
-🌱 I’m currently learning JS, React, React Native, C#, Java <br>📚 
-Analysis and systems development | USC<br>👩🏻‍💻 I am looking to become a FullStack developer and UX/UI Designer
+<div align="center">
+  <a href='https://maahbatistaa-portfolio.vercel.app' target='blank'>
+  <img height="200em" src="./assets/logoMariana.png"/>
+</a>
+</div>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<h1> 💫 About Me:</h1>
 
+<p>🌱 I’m currently learning JS, React, React Native, C#, Java</p>
+<p>📚Analysis and systems development | USC</p>
+<p>👩🏻‍💻 I am looking to become a FullStack developer and UX/UI Designer</p>
 
-## 🌐 Socials:
+<!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
+
+<h2> 🌐 Socials:</h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-333333?style=flat&logo=Instagram)](https://instagram.com/codingwithmari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=LinkedIn)](https://linkedin.com/in/maahbatistaa) [![Portifolio](https://img.shields.io/badge/website-333333?style=flat&logo=About.me)](https://maahbatistaa.github.io/portfolio/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-333333?style=flat&logo=WhatsApp)](https://wa.me/5541991568570)
 
-## 💻 Tech Stack:
+<h2> 💻 Tech Stack:</h2>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,8 +39,8 @@ Analysis and systems development | USC<br>👩🏻‍💻 I am looking to become
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
 
+<h2> 📊 GitHub Stats:</h2>
 
-## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://github-readme-streak-stats.herokuapp.com/?user=maahbatistaa&theme=highcontrast&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=MaahBatistaa&icon=0&color=12)](https://visitcount.itsvg.in)
