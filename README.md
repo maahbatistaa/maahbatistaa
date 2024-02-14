@@ -6,9 +6,8 @@
 
 <h1> 💫 About Me:</h1>
 
-<p>🌱 I’m currently learning JS, React, React Native, C#, Java</p>
 <p>📚Analysis and systems development | USC</p>
-<p>👩🏻‍💻 I am looking to become a FullStack developer and UX/UI Designer</p>
+<p>👩🏻‍💻 I am looking to become a Front-end developer and UX/UI Designer</p>
 
 <!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
 
