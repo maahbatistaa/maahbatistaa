@@ -6,7 +6,7 @@
 
 <h1> 💫 About Me:</h1>
 
-📚Systems Analysis and Development | USC
+📚Systems Analysis and Development | USC <br>
 👩🏻‍💻Every day that passes makes me a better Developer and UX/UI Designer 
 
 <!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
