@@ -38,8 +38,17 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
 
-<h2> 📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maahbatistaa&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://github-readme-streak-stats.herokuapp.com/?user=maahbatistaa&theme=highcontrast&hide_border=false)<br/>
+###
 
-[![](https://visitcount.itsvg.in/api?id=MaahBatistaa&icon=0&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maahbatistaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=maahbatistaa&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maahbatistaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maahbatistaa/count.svg?"  />
+</div>
+
+###
