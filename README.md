@@ -42,13 +42,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maahbatistaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maahbatistaa&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maahbatistaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/maahbatistaa/count.svg?"  />
+ <a href="https://github.com/maahbatistaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maahbatistaa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maahbatistaa&layout=compact&langs_count=8&theme=highcontrast"/>
+</a>
 </div>
 
 ###
